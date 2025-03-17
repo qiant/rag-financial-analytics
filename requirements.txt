@@ -1,0 +1,19 @@
+langchain
+langchain-community
+langchain_openai
+langchain-core
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+altair
+tiktoken
+beautifulsoup4
+playwright
+
+# uncomment to use huggingface llms
+huggingface-hub==0.14.1
+
+# uncomment to use instructor embeddings
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
